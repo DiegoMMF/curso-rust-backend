@@ -15,4 +15,4 @@ WORKDIR /app
 COPY --from=0 /app/target/release/blog-rust /app
 COPY /templates/ /app/templates
 
-CMD ./blog-platzi
+CMD ./blog-rust
