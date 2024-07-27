@@ -12,7 +12,7 @@ FROM ubuntu:18.04
 RUN apt-get update && apt-get install curl pkg-config libssl-dev build-essential libpq-dev -y
 WORKDIR /app
 
-COPY --from=0 /app/target/release/blog-platzi /app
+COPY --from=0 /app/target/release/blog-rust /app
 COPY /templates/ /app/templates
 
 CMD ./blog-platzi

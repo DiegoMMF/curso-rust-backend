@@ -8,7 +8,7 @@ Este es el repositorio de todos los proyectos del Curso de Rust para Backend de 
 
 Cada uno de los proyectos ha sido explicado dentro del curso:
 
-* [Instalacion de diesel](https://github.com/platzi/curso-rust-backend/tree/clase-3-instalacion-de-diesel)
+* [Instalación de diesel](https://github.com/platzi/curso-rust-backend/tree/clase-3-instalacion-de-diesel)
 * [Primer modelo](https://github.com/platzi/curso-rust-backend/tree/clase-4-creacion-de-modelos)
 * [Creando registros](https://github.com/platzi/curso-rust-backend/tree/clase-5-creando-registros)
 * [Generando queries](https://github.com/platzi/curso-rust-backend/tree/clase-6-leyendo-registros)
@@ -19,13 +19,13 @@ Cada uno de los proyectos ha sido explicado dentro del curso:
 * [Crear blogs](https://github.com/platzi/curso-rust-backend/tree/clase-12-crear-blogs)
 * [Importar tera](https://github.com/platzi/curso-rust-backend/tree/clase-13-importar-tera)
 * [Template tera](https://github.com/platzi/curso-rust-backend/tree/clase-14-templates-tera)
-* [Github action para Heroku](https://github.com/platzi/curso-rust-backend/tree/clase-17-github-action)
+* [GitHub action para Heroku](https://github.com/platzi/curso-rust-backend/tree/clase-17-github-action)
 
 ## Como utilizar los assets
 
 1. [Descarga Rust](https://www.rust-lang.org/tools/install)
 2. Descarga el repositorio
-3. Cambiate a la rama del proyecto que te interesa
+3. Cámbiate a la rama del proyecto que te interesa
 4. Sigue las instrucciones del curso
 
 Con 💚 Platzi Team
