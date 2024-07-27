@@ -1,12 +1,12 @@
-# Curso de Rust para Backend		
-Este es el repositorio de todos los proyectos del Curso de Rust para Backend de Platzi 💚 
+# Curso de Rust para Backend
+
+Este es el repositorio de todos los proyectos del Curso de Rust para Backend de Platzi 💚
 
 <a href="https://github.com/HectorPulido">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
+<img height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png" alt="logo"/>
 </a>
 
 Cada uno de los proyectos ha sido explicado dentro del curso:
-
 
 * [Instalacion de diesel](https://github.com/platzi/curso-rust-backend/tree/clase-3-instalacion-de-diesel)
 * [Primer modelo](https://github.com/platzi/curso-rust-backend/tree/clase-4-creacion-de-modelos)
@@ -21,12 +21,11 @@ Cada uno de los proyectos ha sido explicado dentro del curso:
 * [Template tera](https://github.com/platzi/curso-rust-backend/tree/clase-14-templates-tera)
 * [Github action para Heroku](https://github.com/platzi/curso-rust-backend/tree/clase-17-github-action)
 
-
 ## Como utilizar los assets
+
 1. [Descarga Rust](https://www.rust-lang.org/tools/install)
 2. Descarga el repositorio
 3. Cambiate a la rama del proyecto que te interesa
 4. Sigue las instrucciones del curso
-
 
 Con 💚 Platzi Team

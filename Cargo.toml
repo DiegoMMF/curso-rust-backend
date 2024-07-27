@@ -1,15 +1,13 @@
 [package]
-name = "blog-platzi"
+name = "blog-rust"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
-diesel = { version = "1.4.4", features = ["postgres", "r2d2"] }
+diesel = { version = "2.2.2", features = ["postgres", "r2d2"] }
 dotenv = "0.15.0"
-actix-web = "4"
-serde = { version = "1.0.104", features = ["derive"] }
-serde_json = "1.0"
-json = "0.12"
-tera = "1.10.0"
+actix-web = "4.8.0"
+serde = { version = "1.0.204", features = ["derive"] }
+serde_json = "1.0.120"
+json = "0.12.4"
+tera = "1.20.0"
